@@ -1,7 +1,7 @@
-[![MasterHead](https://david-mgbede.vercel.app/images/profile1.jpg)
+<img align="right" alt="Coding" width="800" src="https://david-mgbede.vercel.app/images/profile1.jpg"/>
 <h1 align="center">Hi 👋, I'm David Mgbede</h1>
 <h3 align="center">A passionate frontend developer from Nigeria,Dedicated to crafting immersive and responsive web experiences.</h3>
-<img align="right" alt="Coding" width="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviddozie&label=Profile%20views&color=0e75b6&style=flat" alt="daviddozie" /> </p>
 
