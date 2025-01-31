@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/david__dozie" target="blank"><img src="https://img.shields.io/twitter/follow/david__dozie?logo=twitter&style=for-the-badge" alt="david__dozie" /></a> </p>
 
-- 🔭 I’m currently working on [FrontEnd Quiz App](https://front-end-quiz-app.vercel.app/)
+- 🔭 I’m currently working on [Wep Application](https://)
 
-- 🌱 I’m currently learning **TypeScript.**
+- 🌱 I’m currently learning **Product Design**
 
 - 📝 I regularly write articles on [https://medium.com/@davidmgbede75](https://medium.com/@davidmgbede75)
 
-- 💬 Ask me about **react.js, next.js, JavaScript, HTML5, CSS,**
+- 💬 Ask me about **React.js, Next.js, TypeScript, JavaScript, HTML5, CSS,**
 
 - 📫 How to reach me **davidmgbede75@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17U0ijQnzLVbIEB4ZfjQpUJQKo83WNxKk/view?usp=sharing](https://drive.google.com/file/d/17U0ijQnzLVbIEB4ZfjQpUJQKo83WNxKk/view?usp=sharing)
 
-- ⚡ Fun fact **I am playful**
+- ⚡ Fun fact **I am play video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
