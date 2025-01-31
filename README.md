@@ -1,4 +1,4 @@
-<img alt="Coding" height="600" width="1000" src="https://david-mgbede.vercel.app/images/profile1.jpg"/>
+<img alt="Coding" height="auto" width="1000" src="https://david-mgbede.vercel.app/images/profile1.jpg"/>
 <h1 align="center">Hi 👋, I'm David Mgbede</h1>
 <h3 align="center">A passionate frontend developer from Nigeria,Dedicated to crafting immersive and responsive web experiences.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
