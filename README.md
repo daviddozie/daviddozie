@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="Coding" width="800" src="https://david-mgbede.vercel.app/images/profile1.jpg"/>
+  <img alt="Coding" width="800" src="https://david-mgbede.vercel.app/images/profile1.jpg"/>
 </div>
 <h1 align="center">Hi 👋, I'm David Mgbede</h1>
 <h3 align="center">A passionate frontend developer from Nigeria,Dedicated to crafting immersive and responsive web experiences.</h3>
