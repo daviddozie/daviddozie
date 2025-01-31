@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/18/60/62/1000_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
+[![MasterHead](https://david-mgbede.vercel.app/images/profile1.jpg)
 <h1 align="center">Hi 👋, I'm David Mgbede</h1>
 <h3 align="center">A passionate frontend developer from Nigeria,Dedicated to crafting immersive and responsive web experiences.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **davidmgbede75@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17U0ijQnzLVbIEB4ZfjQpUJQKo83WNxKk/view?usp=sharing](https://drive.google.com/file/d/17U0ijQnzLVbIEB4ZfjQpUJQKo83WNxKk/view?usp=sharing)
+- 📄 Know about my experiences [Portfolio](https://david-mgbede.vercel.app)
 
 - ⚡ Fun fact **I am play video games**
 
