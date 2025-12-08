@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img alt="Banner" width="100%" src="https://x.com/david__dozie/header_photo"/>
+<img alt="Banner" width="100%" src="https://pbs.twimg.com/profile_banners/1700790687191420928/1765227531/1500x500"/>
 
 <h1 align="center">Hi 👋, I'm David Mgbede</h1>
 <h3 align="center">Frontend Engineer || Building high-performance, scalable, and accessible web application || AI Advocate</h3>
