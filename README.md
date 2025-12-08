@@ -1,14 +1,13 @@
 <!-- Banner Image -->
-<img alt="Banner" width="100%" src="https://pbs.twimg.com/profile_banners/1700790687191420928/1737109324/1500x500"/>
+<img alt="Banner" width="100%" src="https://x.com/david__dozie/header_photo"/>
 
 <h1 align="center">Hi 👋, I'm David Mgbede</h1>
-<h3 align="center">Frontend Engineer | Building high-performance, scalable, and accessible web applications</h3>
+<h3 align="center">Frontend Engineer || Building high-performance, scalable, and accessible web application || AI Advocate</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=daviddozie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ---
 
