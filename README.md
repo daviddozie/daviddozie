@@ -1,84 +1,77 @@
 <!-- Banner Image -->
 <img alt="Banner" width="100%" src="https://pbs.twimg.com/profile_banners/1700790687191420928/1765227531/1500x500"/>
 
-<h1 align="center">Hi 👋, I'm David Mgbede</h1>
-<h3 align="center">Frontend Engineer || Building high-performance, scalable, and accessible web application || AI Advocate</h3>
+<h1 align="center"> David Mgbede
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daviddozie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/david-mgbede-16323325b)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://twitter.com/](https://x.com/david__dozie))
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidmgbede75)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davidmgbede75@gmail.com)
 
-
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently building **modern web apps with Next.js & TypeScript**  
-- 🌱 Exploring **Product Design** to make frontend solutions more intuitive  
-- 🧠 Core Tech Stack: **React.js | Next.js | TypeScript | TailwindCSS | Sass | Bootstrap**  
-- ✍️ Writing about web development on [Medium](https://medium.com/@davidmgbede75)  
-- 💬 Ask me about: `React`, `Next.js`, `TypeScript`, `TailwindCSS`, `Accessibility`, `Performance Optimization`  
-- 📫 Reach me at: **davidmgbede75@gmail.com**  
-- 🌐 Portfolio: [david-mgbede.vercel.app](https://david-mgbede.vercel.app)  
-- ⚡ Fun fact: **I enjoy problem-solving with code & strategy games**
-
----
-
-## 🧑‍💻 Tech Stack
-
-### 🧑‍💻 Frontend Tools
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%; max-width: 100%;">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-</div>
-
-
-### 🧑‍💻 Backend Tools
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%; max-width: 100%;">
-  <!-- Backend / Tools -->
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
-</div>
-
- ### Additional Tools & Libraries
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%; max-width: 100%;">
-  <!-- Additional Tools & Libraries -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
-</div>
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddozie&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daviddozie&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daviddozie&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-### 🌐 Connect with Me
+</h1>
 
 <p align="left">
-  <a href="https://twitter.com/david__dozie" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/david-mgbede-16323325b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@davidmgbede75" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
+Hey, I’m <strong>David</strong> — a <strong>Frontend Engineer focused on building scalable, production-ready user interfaces</strong>.  
+I design and ship real-world frontend solutions with a strong emphasis on performance, accessibility, and maintainability.
+
+My work spans <strong>modern frontend engineering, state management, data-driven UI architecture, and system integrations</strong>.  
+I care deeply about how applications behave in production — from data flow and API consumption to rendering performance, monitoring, and user experience.
 </p>
+
+---
+
+## Tech Stack
+
+### Backend & Systems
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### Frontend Engineering
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Lucide](https://img.shields.io/badge/Lucide-000000?style=for-the-badge)
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### Databases
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<!-- GitHub Stats -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daviddozie&theme=radical)
+
+<!-- GitHub Streak -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=daviddozie&theme=dark&hide_border=false)
+
+<!-- Languages -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daviddozie&theme=radical)
