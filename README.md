@@ -8,6 +8,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidmgbede75)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davidmgbede75@gmail.com)
 
+
 </h1>
 
 <p align="left">
@@ -74,7 +75,7 @@ I care deeply about how applications behave in production — from data flow and
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daviddozie&theme=radical)
 
 <!-- GitHub Streak -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=daviddozie&theme=dark&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats-alpha-pink.vercel.app?user=daviddozie&theme=onedark-duo)](https://git.io/streak-stats)
 
 <!-- Languages -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daviddozie&theme=radical)
