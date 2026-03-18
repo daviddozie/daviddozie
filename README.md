@@ -79,3 +79,5 @@ I care deeply about how applications behave in production — from data flow and
 
 <!-- Languages -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daviddozie&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddozie&layout=compact&theme=radical&langs_count=8)
