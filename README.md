@@ -1,83 +1,103 @@
-<!-- Banner Image -->
-<img alt="Banner" width="100%" src="https://pbs.twimg.com/profile_banners/1700790687191420928/1765227531/1500x500"/>
+<div align="center">
 
-<h1 align="center"> David Mgbede
+# Hi, I'm David Mgbede 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/david-mgbede-16323325b)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://twitter.com/](https://x.com/david__dozie))
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidmgbede75)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davidmgbede75@gmail.com)
+### Frontend Engineer · Building fast, accessible & scalable digital products
 
+**React · Next.js · TypeScript · React Native · AI-powered experiences**
 
-</h1>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://david-mgbede.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mgbede-16323325b)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daviddozie)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidmgbede75@gmail.com)
 
-<p align="left">
-Hey, I’m <strong>David</strong> — a <strong>Frontend Engineer focused on building scalable, production-ready user interfaces</strong>.  
-I design and ship real-world frontend solutions with a strong emphasis on performance, accessibility, and maintainability.
+📍 Lagos, Nigeria · 🌍 Open to collaborating on impactful products
 
-My work spans <strong>modern frontend engineering, state management, data-driven UI architecture, and system integrations</strong>.  
-I care deeply about how applications behave in production — from data flow and API consumption to rendering performance, monitoring, and user experience.
-</p>
+</div>
 
 ---
 
-## Tech Stack
+## 👨‍💻 About me
 
-### Backend & Systems
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+I'm a **Frontend Engineer** focused on shipping production-ready applications that are **fast, maintainable, and intuitive**. I build with **React, Next.js, and TypeScript**, and enjoy solving complex product problems at the intersection of user experience, APIs, and engineering architecture.
 
+- ⚡ Improved a production platform's **Lighthouse performance score from 62 to 92**, reducing page-load time by **35%** through targeted frontend optimizations.
+- 🏢 Contributed to a **multi-tenant SaaS platform serving 200+ businesses**, including payments, dashboards, and automated testing.
+- 🤖 Build **AI-powered product experiences**, from enterprise document interactions to agentic research and adaptive learning.
+- 🧩 Care about reusable components, accessible interfaces, robust API integrations, and the details that make software work in production.
 
----
+## 🛠️ Tech stack
 
-### Frontend Engineering
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<div align="center">
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Lucide](https://img.shields.io/badge/Lucide-000000?style=for-the-badge)
-
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+**Styling & State**
 
-### Databases
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+**Backend, Data & Tooling**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+## 🚀 Featured projects
+
+| Project | What it does | Focus |
+| --- | --- | --- |
+| **Intelar** · Agentic AI Research & Learning | Combines autonomous web research, cited reports, hybrid-RAG document conversations, adaptive learning, and collaborative workspaces. | AI research · Document intelligence · EdTech |
+| **Gloflix** · AI-Powered Movie Discovery | Helps users explore movies through mood-based recommendations, responsive browsing, and optimized media previews. | Discovery UX · Performance · AI |
+| **Olenar** · Learning & Mentorship | Connects student and mentor dashboards, courses, assessments, progress tracking, and document-grounded AI assistance. | Learning platforms · Role-based UI |
+| **[Forjex](https://github.com/daviddozie/forjex)** · Developer Automation CLI | Streamlines project setup, GitHub repository creation, and CI/CD configuration through developer-focused automation. | CLI · Developer experience |
+
+> I enjoy building products that turn complicated workflows into clear, useful experiences.
+
+## 💼 Engineering highlights
+
+- **Enterprise AI:** Developed conversational AI interfaces and an MCP-based SharePoint integration for querying enterprise documents; worked on frontend security controls including Content Security Policy (CSP).
+- **SaaS & payments:** Built multi-tenant interfaces and integrated REST APIs for bookings, payments, and operational analytics.
+- **Performance & reliability:** Used Lighthouse to investigate bottlenecks and applied code splitting, image lazy loading, and memoization; developed end-to-end tests with Playwright.
+- **Web & mobile:** Delivered responsive web and React Native experiences for business operations and logistics workflows.
+
+## 📊 GitHub activity
+
+<div align="center">
+
+![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daviddozie&theme=github_dark)
+
+<img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daviddozie&theme=github_dark" height="170" />
+<img alt="Languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daviddozie&theme=github_dark" height="170" />
+
+</div>
+
+## 🤝 Community & contact
+
+I support developer learning and peer collaboration through **KodeCamp**, including knowledge-sharing and mentorship initiatives.
+
+Have an interesting frontend, SaaS, or AI product to build?
+
+**[Explore my portfolio](https://david-mgbede.vercel.app)** · **[Connect on LinkedIn](https://www.linkedin.com/in/david-mgbede-16323325b)** · **[Send an email](mailto:davidmgbede75@gmail.com)**
 
 ---
 
-## GitHub Stats
-
-<!-- GitHub Stats -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daviddozie&theme=radical)
-
-<!-- GitHub Streak -->
-[![GitHub Streak](https://github-readme-streak-stats-alpha-pink.vercel.app?user=daviddozie&theme=onedark-duo)](https://git.io/streak-stats)
-
-<!-- Languages -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daviddozie&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddozie&layout=compact&theme=radical&langs_count=8)
+<div align="center"><sub>Building thoughtfully. Optimizing continuously. Learning always.</sub></div>
