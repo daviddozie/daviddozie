@@ -18,7 +18,7 @@
 
 I'm a **Frontend Engineer** building production-ready web and mobile experiences with **React, Next.js, TypeScript, and React Native**. I enjoy translating complex workflows into interfaces that feel simple, responsive, and reliable.
 
-My work spans **multi-tenant SaaS**, **enterprise AI**, **payments**, and **learning platforms**. I care about what happens after shipping: performance on real devices, maintainable architecture, accessible UI, and dependable integrations.
+My experience spans **logistics, hospitality, enterprise technology, fintech, and education**, building scalable digital solutions for different business needs. I care about what happens after shipping: performance on real devices, maintainable architecture, accessible interfaces, and reliable integrations.
 
 <table>
 <tr>
@@ -28,7 +28,7 @@ My work spans **multi-tenant SaaS**, **enterprise AI**, **payments**, and **lear
 </tr>
 </table>
 
-## ⚡ What I build with
+## ⚡ Tech Stack & Tools
 
 <div align="center">
 
