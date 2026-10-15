@@ -149,6 +149,40 @@ A command-line tool that simplifies repetitive project setup and developer workf
 
 **Across web and mobile.** Shipped responsive web applications and React Native experiences supporting business operations and logistics.
 
+## 🔬 How I engineer
+
+I care about the full journey from a problem statement to a dependable release—not just the UI that ships.
+
+| Practice | How I approach it |
+| --- | --- |
+| **Frontend architecture** | Component-driven design, reusable UI patterns, state management, and maintainable TypeScript code |
+| **Performance & diagnostics** | Lighthouse audits, code splitting, image lazy loading, memoization, and investigating unnecessary renders |
+| **Testing & quality** | Playwright end-to-end tests, Git/GitHub pull-request workflows, and collaborative code reviews |
+| **API & data integration** | REST APIs, authentication flows, client/server state, and resilient asynchronous interfaces |
+| **Security & reliability** | Content Security Policy (CSP), safer document interactions, and attention to production behavior |
+| **AI product engineering** | Conversational interfaces, MCP-based integrations, hybrid-RAG document experiences, and agentic workflows |
+| **Developer experience** | CLI automation, project scaffolding, repository setup, and CI/CD workflow generation with Forjex |
+
+### 🧰 Tools in my workflow
+
+**Development:** VS Code · Git · GitHub · terminal-based workflows  
+**Performance & testing:** Lighthouse · Playwright  
+**Backend & integrations:** Python · FastAPI · REST APIs · Supabase · Firebase  
+**Delivery practices:** Pull requests · Code reviews · CI/CD workflows · Reusable component architecture
+
+## ✍️ Technical writing
+
+I also write on **Medium**, sharing ideas and lessons from building software. I enjoy explaining engineering decisions, exploring tools, and turning practical experience into useful learning resources.
+
+*Selected articles and a direct Medium profile link will be added once their URLs are confirmed.*
+
+## 🎓 Learning & certifications
+
+I believe staying curious is part of being an engineer.
+
+- **AWS Cloud Practitioner Essentials** — completed; explored cloud fundamentals, EC2, Availability Zones, networking, load balancing, storage, and security.
+- **Anthropic & Udacity learning** — credential details and verification links to be added after reviewing the certificates.
+
 ## 📈 GitHub at a glance
 
 <div align="center">
