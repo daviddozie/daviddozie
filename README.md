@@ -172,16 +172,22 @@ I care about the full journey from a problem statement to a dependable release�
 
 ## ✍️ Technical writing
 
-I also write on **Medium**, sharing ideas and lessons from building software. I enjoy explaining engineering decisions, exploring tools, and turning practical experience into useful learning resources.
+I write about software engineering, the tools I explore, and lessons from building real-world products. Sharing what I learn helps me think more clearly and contribute to the developer community.
 
-*Selected articles and a direct Medium profile link will be added once their URLs are confirmed.*
+📝 **[Read my articles on Medium →](https://medium.com/@davidmgbede75)**
 
-## 🎓 Learning & certifications
+## 🎓 Learning & course completions
 
-I believe staying curious is part of being an engineer.
+I keep learning across frontend engineering, cloud computing, and applied AI.
 
-- **AWS Cloud Practitioner Essentials** — completed; explored cloud fundamentals, EC2, Availability Zones, networking, load balancing, storage, and security.
-- **Anthropic & Udacity learning** — credential details and verification links to be added after reviewing the certificates.
+| Provider | Completed course | Date |
+| --- | --- | --- |
+| **Udacity** | AWS AI Practitioner Challenge — verified course completion | April 16, 2026 |
+| **AWS Training & Certification** | AWS Cloud Practitioner Essentials — course completion | October 1, 2026 |
+| **Anthropic** | AI Fluency: Framework & Foundations — certificate of completion | — |
+| **Anthropic** | Claude 101 — certificate of completion | — |
+
+> These are learning/course-completion credentials, not claims of passing the AWS Certified Cloud Practitioner or AWS Certified AI Practitioner certification exams.
 
 ## 📈 GitHub at a glance
 
