@@ -4,7 +4,7 @@
 
 ### I turn complex product ideas into fast, intuitive web experiences.
 
-**Frontend engineering · SaaS platforms · AI-powered products · Developer experience**
+**Software engineering · SaaS platforms · AI-powered products · Developer experience**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://david-mgbede.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mgbede-16323325b)
