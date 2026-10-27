@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="David Mgbede — Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:4338ca,100:7c3aed&text=David%20Mgbede&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20%2B%20Next.js%20%2B%20TypeScript&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" alt="David Mgbede — Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:4338ca,100:7c3aed&text=David%20Mgbede&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%2B%20Next.js%20%2B%20TypeScript&descAlignY=60&descSize=18&animation=fadeIn" />
 
 ### I turn complex product ideas into fast, intuitive web experiences.
 
