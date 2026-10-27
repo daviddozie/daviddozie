@@ -16,7 +16,7 @@
 
 ## 👋 A little about me
 
-I'm a **Frontend Engineer** building production-ready web and mobile experiences with **React, Next.js, TypeScript, and React Native**. I enjoy translating complex workflows into interfaces that feel simple, responsive, and reliable.
+I'm a **Software Engineer** building production-ready web and mobile experiences with **React, Next.js, TypeScript, and React Native**. I enjoy translating complex workflows into interfaces that feel simple, responsive, and reliable.
 
 My experience spans **logistics, hospitality, enterprise technology, fintech, and education**, building scalable digital solutions for different business needs. I care about what happens after shipping: performance on real devices, maintainable architecture, accessible interfaces, and reliable integrations.
 
@@ -48,10 +48,11 @@ My experience spans **logistics, hospitality, enterprise technology, fintech, an
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
-**Beyond the browser**
+**Core Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
